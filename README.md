@@ -9,4 +9,4 @@ The extension utilizes the following:
  
 This is the code to add my Google Chrome Extension to.
 
-Please see video here to see full functionality: 
+Please see video here to see full functionality: https://youtu.be/KBAVG6PhgPI
