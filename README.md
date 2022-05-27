@@ -1,6 +1,6 @@
 # YouTube-Ad-Skipper-Chrome-Extension
 
-This is a chrome extension that automatically click the 'Skip Ads'/'Skip Ad' button on YouTube Videos
+This is a chrome extension that automatically clicks the 'Skip Ads'/'Skip Ad' button on YouTube Videos
 
 The extension utilizes the following:
 - Firebase
