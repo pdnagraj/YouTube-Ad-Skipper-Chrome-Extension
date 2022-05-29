@@ -6,6 +6,6 @@ The extension utilizes the following:
 - Firebase
 - Google Cloud API
 - Stripe API
-- Node.js
+- JS
 
 Please see video here to see full functionality: https://youtu.be/KBAVG6PhgPI
